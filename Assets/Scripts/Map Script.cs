@@ -92,6 +92,7 @@ public class MapScript : MonoBehaviour
         
         }
     
+
     }
     
     //The method for drawing the Tilemap.
